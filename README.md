@@ -100,7 +100,7 @@ Not deployed. This is a research/ML pipeline — runs locally against the CREMA-
 ## Assumptions & Notes
 
 - Stress level is treated as a **regression** problem (continuous score 0–1), not binary classification
-- The `about.txt` mentions RAVDESS was also used; the primary pipeline in `run.py` uses CREMA-D only — RAVDESS integration may be in a separate notebook not included here
+- The `about.txt` mentions RAVDESS was also used; the primary pipeline in `run.py` uses CREMA-D only — RAVDESS integration was not included here as the results did not significantly vary with the dataset.
 - Paper submitted for publication; results are reproducible by running `run.py` with the CREMA-D dataset
 
 ---
@@ -108,4 +108,4 @@ Not deployed. This is a research/ML pipeline — runs locally against the CREMA-
 ## Author
 
 **Shyam Narasimha Tadicharla**
-GitHub: [Shyam-Narasimha-Tadicharla](https://github.com/Shyam-Narasimha-Tadicharla) | LinkedIn: [shyam-narasimha-tadicharla-750b6727a](https://www.linkedin.com/in/shyam-narasimha-tadicharla-750b6727a/)
+GitHub: [Shyam-Narasimha-Tadicharla](https://github.com/Shyam-Narasimha-Tadicharla) | LinkedIn: [shyam-narasimha-tadicharla](https://www.linkedin.com/in/shyam-narasimha-tadicharla-750b6727a/)
